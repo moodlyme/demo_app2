@@ -1,0 +1,8 @@
+1358546898
+Application	C:/Sites/demo_app2/config/application.rb	  class Application 
+ApplicationController	C:/Sites/demo_app2/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/demo_app2/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Sites/demo_app2/test/performance/browsing_test.rb	class BrowsingTest 
+DemoApp2	C:/Sites/demo_app2/config/application.rb	module DemoApp2
+TestCase	C:/Sites/demo_app2/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	C:/Sites/demo_app2/test/performance/browsing_test.rb	  def test_homepage
