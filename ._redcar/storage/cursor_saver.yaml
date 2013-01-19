@@ -1,4 +1,21 @@
 --- 
-cursor_positions: []
-
+cursor_positions: 
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-18 16:03:31.107000 -06:00
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-18 16:25:01.984000 -06:00
+  - :path: app/models/user.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-18 16:25:01.917000 -06:00
+  - :path: app/views/users/index.html.erb
+    :cursor_offset: 161
+    :timestamp: 2013-01-18 16:25:02.059000 -06:00
+  - :path: app/views/users/new.html.erb
+    :cursor_offset: 18
+    :timestamp: 2013-01-18 16:25:02.065000 -06:00
+  - :path: app/views/users/_form.html.erb
+    :cursor_offset: 335
+    :timestamp: 2013-01-18 16:25:02.067000 -06:00
 files_to_retain: 0
